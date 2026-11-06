@@ -48,15 +48,6 @@ A web-based application for maintaining student records and managing attendance.
 
 **Technologies:** Servlets, JSP, JDBC, MySQL, Apache Tomcat, Java.
 
-## GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shavu05&show_icons=true&hide_border=true&rank_icon=github" alt="Shravani's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavu05&layout=compact&hide_border=true" alt="Most used programming languages" />
-
-</div>
-
 ## Connect
 
 - **GitHub:** [@shavu05](https://github.com/shavu05)
