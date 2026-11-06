@@ -22,11 +22,17 @@ I build practical web applications with thoughtful user experiences, reliable ba
 
 ## Tech Stack
 
-**JavaScript** · **React** · **Node.js** · **Express** · **PostgreSQL** · **MySQL** · **Git** · **GitHub** · **Java**
+**JavaScript** · **React** · **Node.js** · **Express** · **Python** · **Flask** · **AWS S3** · **Boto3** · **PostgreSQL** · **MySQL** · **Git** · **GitHub** · **Java**
 
 **Also worked with:** HTML, CSS, Tailwind CSS, Sequelize, Axios, Apache Tomcat, JSP, JDBC, Java Servlets.
 
 ## Featured Projects
+
+### [Cloud Storage System](https://github.com/shavu05/CloudStorageSystem)
+A private, authenticated cloud file manager built with Flask and Amazon S3. Supports secure file uploads, browsing, search, temporary downloads, renaming, and deletion.
+
+**Technologies:** Python, Flask, Flask-WTF, AWS S3, Boto3, HTML, CSS.
+
 
 ### [PaisaWise](https://github.com/shavu05/paisawise)
 A personal finance management application for tracking income and expenses, managing budgets and savings goals, and generating reports.
