@@ -52,6 +52,7 @@ A web-based application for maintaining student records and managing attendance.
 
 - **GitHub:** [@shavu05](https://github.com/shavu05)
 - **LinkedIn:** [Shravani Mandve](https://www.linkedin.com/in/shravanimandve/)
+- **Instagram:** [@shavu_14](https://www.instagram.com/shavu_14/)
 
 ---
 
